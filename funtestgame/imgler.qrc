@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="img">
+    <file>orange.png</file>
+    <file>lightblue.png</file>
+    <file>waw.png</file>
+    <file>wawe.png</file>
+    <file>carkifelek.png</file>
+    <file>storm green.png</file>
+    <file>puan.png</file>
+    <file>bgw.png</file>
+    <file>bgw2.png</file>
+    <file>bgw3.png</file>
+  </qresource>
+</RCC>

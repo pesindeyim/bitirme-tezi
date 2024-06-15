@@ -1,0 +1,6 @@
+ui to py
+pyuic5 -x örnek.ui -o örnek.py
+
+qrc to py
+qrc ye görsel eklendikten sonra terminalde bunu convert et
+pyrcc5 imgler.qrc -o imgler_rc.py
